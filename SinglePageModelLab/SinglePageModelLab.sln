@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePageModel", "SinglePageModel\SinglePageModel.csproj", "{8DA03819-D80A-4E5C-87C7-AC0498EF6968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL", "AutoLotDAL\AutoLotDAL\AutoLotDAL.csproj", "{76EBA30B-7574-4562-9746-E0EDC6A31E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA03819-D80A-4E5C-87C7-AC0498EF6968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA03819-D80A-4E5C-87C7-AC0498EF6968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA03819-D80A-4E5C-87C7-AC0498EF6968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA03819-D80A-4E5C-87C7-AC0498EF6968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118B12B7-1342-418B-94B6-F8CC4D8C0DEE}
+	EndGlobalSection
+EndGlobal
